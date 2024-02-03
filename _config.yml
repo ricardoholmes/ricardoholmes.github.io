@@ -22,12 +22,13 @@ title: Ricardo Holmes
 email: ricardoholmes2004@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A portfolio website for showcasing my projects.
+domain: ricardoholmes.github.io
+url: "https://ricardoholmes.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: ricardoholmes
 
 # Build settings
-theme: minimal-mistakes-jekyll
+theme: minima
 plugins:
 
 # Exclude from processing.
